@@ -1,0 +1,45 @@
+strategy,test_id,active_student,prerequisite_met,seat_available,payment_complete,normal_course_load
+Pairwise,1,0,0,0,0,0
+Pairwise,2,0,1,1,1,1
+Pairwise,3,1,0,0,1,1
+Pairwise,4,1,1,1,0,0
+Pairwise,5,0,0,1,0,1
+Pairwise,6,0,1,0,1,0
+Random (seed=42),1,0,0,1,1,1
+Random (seed=42),2,0,0,0,0,0
+Random (seed=42),3,1,0,1,1,1
+Random (seed=42),4,0,1,0,0,0
+Random (seed=42),5,1,1,1,1,1
+Random (seed=42),6,1,1,0,1,1
+Exhaustive,1,0,0,0,0,0
+Exhaustive,2,0,0,0,0,1
+Exhaustive,3,0,0,0,1,0
+Exhaustive,4,0,0,0,1,1
+Exhaustive,5,0,0,1,0,0
+Exhaustive,6,0,0,1,0,1
+Exhaustive,7,0,0,1,1,0
+Exhaustive,8,0,0,1,1,1
+Exhaustive,9,0,1,0,0,0
+Exhaustive,10,0,1,0,0,1
+Exhaustive,11,0,1,0,1,0
+Exhaustive,12,0,1,0,1,1
+Exhaustive,13,0,1,1,0,0
+Exhaustive,14,0,1,1,0,1
+Exhaustive,15,0,1,1,1,0
+Exhaustive,16,0,1,1,1,1
+Exhaustive,17,1,0,0,0,0
+Exhaustive,18,1,0,0,0,1
+Exhaustive,19,1,0,0,1,0
+Exhaustive,20,1,0,0,1,1
+Exhaustive,21,1,0,1,0,0
+Exhaustive,22,1,0,1,0,1
+Exhaustive,23,1,0,1,1,0
+Exhaustive,24,1,0,1,1,1
+Exhaustive,25,1,1,0,0,0
+Exhaustive,26,1,1,0,0,1
+Exhaustive,27,1,1,0,1,0
+Exhaustive,28,1,1,0,1,1
+Exhaustive,29,1,1,1,0,0
+Exhaustive,30,1,1,1,0,1
+Exhaustive,31,1,1,1,1,0
+Exhaustive,32,1,1,1,1,1

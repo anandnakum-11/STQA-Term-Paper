@@ -1,0 +1,4 @@
+strategy,test_cases,pairwise_coverage_percent,faults_detected,faults_total,fault_detection_percent
+Pairwise,6,100.00,4,5,80.00
+Random (seed=42),6,85.00,3,5,60.00
+Exhaustive,32,100.00,5,5,100.00
